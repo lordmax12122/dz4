@@ -1,0 +1,21 @@
+{
+  "name": "dz4",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordmax12122/dz4.git"
+  },
+  "keywords": [],
+  "author": "lordmax12122",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordmax12122/dz4/issues"
+  },
+  "homepage": "https://github.com/lordmax12122/dz4#readme"
+}
